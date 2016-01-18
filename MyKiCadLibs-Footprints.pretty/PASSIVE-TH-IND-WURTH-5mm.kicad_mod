@@ -1,0 +1,11 @@
+(module PASSIVE-TH-IND-WURTH-5mm (layer F.Cu) (tedit 54E5C949)
+  (fp_text reference VAL** (at 0 -4.826) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value PASSIVE-TH-IND (at 0.127 -2.413) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_circle (center 0 0) (end 4 0) (layer F.SilkS) (width 0.15))
+  (pad 1 thru_hole circle (at -2.5 0) (size 3 3) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 2.5 0) (size 3 3) (drill 1) (layers *.Cu *.Mask F.SilkS))
+)
