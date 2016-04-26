@@ -1,0 +1,10 @@
+(module MNT_HOLE_3mm (layer F.Cu) (tedit 56D6D22F)
+  (fp_text reference MNT_HOLE_3mm (at -0.175 -3.75) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0 -5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3 3) (drill 3) (layers *.Cu *.Mask F.SilkS)
+    (solder_mask_margin 1.6) (clearance 1.7))
+)
