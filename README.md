@@ -1,4 +1,4 @@
-# [Open Hardware DSP Platform](www.ohdsp.org)
+# [Open Hardware DSP Platform](http://www.ohdsp.org)
 ## KiCad-Libs
 ### KiCad libraries for use with revision 1.1 and newer boards only
 ---
