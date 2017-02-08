@@ -1,9 +1,9 @@
-(module CONN_SIL_3_1MM (layer F.Cu) (tedit 56D43A9C)
+(module CONN_SIL_3_1MM (layer F.Cu) (tedit 5745B148)
   (fp_text reference VAL** (at 3.048 -2.159) (layer F.SilkS)
-    (effects (font (size 1.5 1.5) (thickness 0.15)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value CONN_SIL_3 (at 1.778 -2.159) (layer F.SilkS) hide
-    (effects (font (size 1.5 1.5) (thickness 0.15)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.683 1.143) (end 6.223 1.143) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.683 -1.143) (end 6.223 -1.143) (layer F.SilkS) (width 0.15))

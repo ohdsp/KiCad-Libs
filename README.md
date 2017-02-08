@@ -14,9 +14,7 @@ This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLU
 
 **Quick summary**
 
-These KiCad libraries are for use with Open Hardware DSP revision 1.1 or newer schematic and PCB designs. 
-
-For older version of projects (revision 1.0) please check out the older version of the KiCad-Libs.
+These KiCad libraries are for use with Open Hardware DSP schematic and PCB designs. 
 
 This also contains the BOM generation plugin under the "Plugins" folder. This can be added to eeschema by going to Tools -> Generate Bill of Materials -> Add Plugin and browsing to the Plugins folder.
 

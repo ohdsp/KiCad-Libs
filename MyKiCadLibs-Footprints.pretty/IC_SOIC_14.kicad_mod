@@ -1,6 +1,6 @@
-(module IC_SOIC_14 (layer F.Cu) (tedit 55016906)
-  (fp_text reference U** (at -0.75 -5.5) (layer F.SilkS)
-    (effects (font (size 1.2 1.2) (thickness 0.2)))
+(module IC_SOIC_14 (layer F.Cu) (tedit 564E4984)
+  (fp_text reference U304 (at 4.9276 2.159 90) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_text value IC_SOIC_14 (at 0 -5.5) (layer F.SilkS) hide
     (effects (font (size 1.2 1.2) (thickness 0.2)))
