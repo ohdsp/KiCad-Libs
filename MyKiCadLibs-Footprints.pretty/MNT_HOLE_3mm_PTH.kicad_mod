@@ -1,0 +1,9 @@
+(module MNT_HOLE_3mm_PTH (layer F.Cu) (tedit 58A1C1DE)
+  (fp_text reference MNT_HOLE_3mm_PTH (at 0 4) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0 -4) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 6.5 6.5) (drill 3.2) (layers *.Cu *.Mask))
+)
