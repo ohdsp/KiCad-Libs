@@ -1,8 +1,8 @@
-(module CONN_DIL_2X6_BOX_1MM (layer F.Cu) (tedit 56EBFABF)
-  (fp_text reference VAL** (at -5.334 8.382 90) (layer F.SilkS)
+(module CONN_DIL_2X6_BOX_1MM (layer F.Cu) (tedit 5BC10688)
+  (fp_text reference P404 (at 5.455 8.675 90) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
-  (fp_text value CONN_DIL_2X6_BOX_1MM (at 5.334 0 90) (layer F.SilkS) hide
+  (fp_text value CONN_02X06 (at 5.334 0 90) (layer F.SilkS) hide
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_line (start -4.2 -1.016) (end -4.2 -11.43) (layer F.SilkS) (width 0.15))
@@ -14,7 +14,7 @@
   (fp_line (start -4.2 11.43) (end 4.2 11.43) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.2 -11.43) (end 0 -11.43) (layer F.SilkS) (width 0.15))
   (fp_line (start 0 -11.43) (end -4.2 -11.43) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at -1.27 -6.35) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole rect (at -1.27 -6.35) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.27 -6.35) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at -1.27 -3.81) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 1.27 -3.81) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask F.SilkS))
